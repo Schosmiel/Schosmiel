@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Schosmiel" alt="Schosmiel" /></a> </p>
 
 ### Sponsor me
- ## Buy me cofe
+ # Buy me cofe
 [![Paypal Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](paypal.me/RichardGadjenou)
 
 <h3 align="left">Connect with me:</h3>
