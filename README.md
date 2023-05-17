@@ -60,7 +60,6 @@
   
 ![GADJENOU Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schosmiel&show_icons=true&theme=tokyonight)  
 
-![GADJENOU Richard's github activity graph](https://activity-graph.herokuapp.com/graph?username=Schosmiel&theme=react-dark)
 
 
 
