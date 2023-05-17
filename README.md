@@ -55,11 +55,5 @@
   </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Schosmiel&show_icons=true&locale=en&layout=compact" alt="Schosmiel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Schosmiel&show_icons=true&locale=en" alt="Schosmiel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Schosmiel&" alt="Schosmiel" /></p>
-
 
 
