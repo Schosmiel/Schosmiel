@@ -28,12 +28,10 @@
       <a href="#"><img alt="MSSQL Server" src="https://img.shields.io/badge/MSSQL%20Server-CC2927.svg?logo=microsoft%20sql%20server&logoColor=white"></a>
       <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-  <a href="#" target="_blank" rel="noreferrer">
+   </p>
+<a href="#" target="_blank" rel="noreferrer">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" width="40" height="40">
 </a>
-
-  </p>
-
 
    <h3>💻 Software and Tools</h3>
 
