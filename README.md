@@ -1,7 +1,7 @@
 <h2>  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70">  I'm Richard GADJENOU!</h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="200">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=3C10F7&vCenter=true&multiline=true&width=630&height=200&lines=IT+works+engineer+ready+for+any+;web+development+adventure.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=3C10F7&vCenter=true&multiline=true&width=630&height=200&lines=IT+works+engineer+ready;for+any+web+development+adventure.)](https://git.io/typing-svg)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Schosmiel" alt="Schosmiel" /></a> </p>
