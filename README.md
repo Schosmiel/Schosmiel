@@ -26,6 +26,7 @@
       <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="MSSQL Server" src="https://img.shields.io/badge/MSSQL%20Server-CC2927.svg?logo=microsoft%20sql%20server&logoColor=white"></a>
+      <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
 
