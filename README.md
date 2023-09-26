@@ -3,8 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=3C10F7&vCenter=true&multiline=true&width=630&height=200&lines=IT+works+engineer+ready;to+develop+solutions)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Schosmiel" alt="Schosmiel" /></a> </p>
-
 
 # 💫 About Me:
 🔍🌐 Exploring the Technical World! 🚀 As a 💻 computer engineering student with a passion for 🤖 machine learning, I am thrilled to continue learning and growing as a developer<br><br>    🔭 I’m currently working on Machine learning Models<br><br>    🌱 I’m currently learning TensorFlow, cloud computing and much more.<br><br>    📫 How to reach me schosmiel@gmail.com<br>
