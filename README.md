@@ -5,12 +5,7 @@
 
 
 # 💫 About Me:
-🔍🌐 Exploring the Technical World! 🚀 As 
-a 💻 computer engineering student with a passion for 
-🤖 machine learning, I am thrilled to continue learning and growing as a developer<br><br>    
-🔭 I’m currently working on Machine learning Models<br><br>    
-🌱 I’m currently learning TensorFlow, cloud computing and much more.<br><br>    
-📫 How to reach me schosmiel@gmail.com<br>
+🔍🌐 Exploring the Technical World! 🚀 As a 💻 computer engineering student with a passion for 🤖 machine learning, I am thrilled to continue learning and growing as a developer<br><br> 🔭 I’m currently working on Machine learning Models<br><br> 🌱 I’m currently learning TensorFlow, cloud computing and much more.<br><br> 📫 How to reach me schosmiel@gmail.com<br>
 
 
 # Sponsor me
