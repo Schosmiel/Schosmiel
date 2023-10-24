@@ -10,7 +10,8 @@
 
 # Sponsor me
 #### Buy me cofe
-[![Paypal Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](paypal.me/RichardGadjenou)
+[![Wise Badge](https://img.shields.io/badge/Wise-14B161?style=for-the-badge&logo=wise&logoColor=white)](https://wise.com/pay/me/koffirichardg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="linkedin.com/in/richard-gadjenou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard-gadjenou" height="30" width="40" /></a>
